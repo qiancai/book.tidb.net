@@ -1,4 +1,4 @@
-# About book.tidb.net
+# About this repo
 
 TiDB community Ebook [tidb.net/book](https://tidb.net/book)
 
