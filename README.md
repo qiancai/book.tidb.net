@@ -1,6 +1,6 @@
 # About book.tidb.net
 
-TiDB 社区电子书 [tidb.net/book](https://tidb.net/book)
+TiDB community Ebook [tidb.net/book](https://tidb.net/book)
 
 ## License
 
